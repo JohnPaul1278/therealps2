@@ -1,0 +1,23 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
+Puerto Rico,PRI,2015,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.42979
+Puerto Rico,PRI,2013,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.43859
+Puerto Rico,PRI,2009,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.45131
+Puerto Rico,PRI,2016,Scientific and technical journal articles,IP.JRN.ARTC.SC,566
+Puerto Rico,PRI,2015,Scientific and technical journal articles,IP.JRN.ARTC.SC,585.8
+Puerto Rico,PRI,2014,Scientific and technical journal articles,IP.JRN.ARTC.SC,621.3
+Puerto Rico,PRI,2013,Scientific and technical journal articles,IP.JRN.ARTC.SC,577.6
+Puerto Rico,PRI,2012,Scientific and technical journal articles,IP.JRN.ARTC.SC,624.3
+Puerto Rico,PRI,2011,Scientific and technical journal articles,IP.JRN.ARTC.SC,631.2
+Puerto Rico,PRI,2010,Scientific and technical journal articles,IP.JRN.ARTC.SC,705.2
+Puerto Rico,PRI,2009,Scientific and technical journal articles,IP.JRN.ARTC.SC,639.7
+Puerto Rico,PRI,2008,Scientific and technical journal articles,IP.JRN.ARTC.SC,671.2
+Puerto Rico,PRI,2007,Scientific and technical journal articles,IP.JRN.ARTC.SC,639.6
+Puerto Rico,PRI,2006,Scientific and technical journal articles,IP.JRN.ARTC.SC,662.6
+Puerto Rico,PRI,2005,Scientific and technical journal articles,IP.JRN.ARTC.SC,527.9
+Puerto Rico,PRI,2004,Scientific and technical journal articles,IP.JRN.ARTC.SC,462.4
+Puerto Rico,PRI,2003,Scientific and technical journal articles,IP.JRN.ARTC.SC,496.7
+Puerto Rico,PRI,2015,Researchers in R&D (per million people),SP.POP.SCIE.RD.P6,320.6552
+Puerto Rico,PRI,2013,Researchers in R&D (per million people),SP.POP.SCIE.RD.P6,260.25267
+Puerto Rico,PRI,2015,Technicians in R&D (per million people),SP.POP.TECH.RD.P6,143.72322
+Puerto Rico,PRI,2013,Technicians in R&D (per million people),SP.POP.TECH.RD.P6,160.21805
